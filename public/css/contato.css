@@ -1,0 +1,16 @@
+.container input, .container input:focus{
+    border: 0;
+    padding-top: 0;
+    background-color:transparent;
+    border-bottom: 1px solid #5ca3e2;;
+    box-shadow: none;
+    border-radius: 0;
+}
+.container textarea, .container textarea:focus{
+    box-shadow: none;
+    resize: none;
+}
+
+.form-group label{
+    margin-bottom: 0;
+}

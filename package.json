@@ -1,0 +1,27 @@
+{
+  "name": "serratec-trabalho-frontend-essencial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCarreiro/serratec-trabalho-frontend-essencial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCarreiro/serratec-trabalho-frontend-essencial/issues"
+  },
+  "homepage": "https://github.com/GabrielCarreiro/serratec-trabalho-frontend-essencial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
