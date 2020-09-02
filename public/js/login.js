@@ -20,7 +20,7 @@
             mostrarMesagem(" Senha ou usuarios inválidos ! ");
             return;
         }
-            window.location.href = 'home.html';
+            window.location.href = '/';
     })
 
     /* Função para exibir mensagem de alerta no topo do Box Login */
